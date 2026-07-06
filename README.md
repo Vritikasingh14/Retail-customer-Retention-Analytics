@@ -80,6 +80,12 @@ Customer retention is one of the most important factors affecting retail profita
 
 
 ## 📷 Dashboard Preview
+![Dashboard 1](dashboard1.png)
+![Dashboard 2](Dashboard2.png)
+![Dashboard 3](Dashboard3.png)
+![Dashboard 4](Dashboard4.png)
+
+
 
 ---
 
